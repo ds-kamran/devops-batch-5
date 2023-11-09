@@ -1,0 +1,9 @@
+git init : command to initialize a repository
+git add : to chnage from untrack to staging
+git commit : to chanage fromn staging to tracked
+git rm : to change back from staging to untracked.
+git status : to check the status of the present repository.
+
+git diff: to check the difference in a file from previous version to new version.
+git restire : to restore the change in the file from new to old version.
+git log : to check the history of the file in git.
